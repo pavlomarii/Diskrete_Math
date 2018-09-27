@@ -1,0 +1,2 @@
+# DiskreteMath
+Lab Diskrete Math
