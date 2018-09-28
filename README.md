@@ -1,2 +1,0 @@
-# DiskreteMath
-Lab Diskrete Math
